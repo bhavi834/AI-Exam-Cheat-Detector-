@@ -1,1 +1,1 @@
-# AI-Exam-Cheat-Detector-
+EXAMGUARD
