@@ -164,4 +164,4 @@ MIT License. See `LICENSE` file for details.
 
 ## 👨‍🔬 Maintainer
 
-Built with ❤️ during a Hackathon by [mushxoxo].
+Built with ❤️ during a Hackathon by [bhavi834].
